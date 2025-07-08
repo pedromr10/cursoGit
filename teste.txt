@@ -1,3 +1,5 @@
 Testando arquivo txt.
 
 Testando alteração do documento.
+
+Testando atualização do documento remotamente e recepção pelo local.
