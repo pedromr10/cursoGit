@@ -4,4 +4,4 @@ Testando alteração do documento.
 
 Testando atualização do documento remotamente e recepção pelo local. :D
 
-testando atualização do clone
+testando atualização do clone 2
