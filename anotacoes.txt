@@ -29,6 +29,9 @@
  
 * Para resetar uma branch: git reset --hard origin/master
 
+* Para visualizar os branchs disponíveis: git branch
+* Para criar uma nova branch: git branch nomeDaBranch
+
 --- INFOS ---
 * git push envia os arquivos commitados;
 * o add é utilizado apenas para novos arquivos, se um arquivo já existir e apenas for modificado, usar o commit;
